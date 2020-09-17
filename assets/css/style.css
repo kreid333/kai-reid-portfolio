@@ -1,0 +1,46 @@
+.fab, .fas {
+    margin: 0px 5px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.row {
+    margin-bottom: 100px;
+}
+
+.jumbotron {
+    background-color: #007bff;
+    color: white;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: white;
+}
+
+a {
+    color: #ffffff;
+    background-color: transparent;
+}
+
+img {
+    height: 35%;
+    width: 35%;
+    border: solid black;
+}
+
+.img-div {
+    text-align: center;
+}
+
+.card-row {
+    margin-bottom: 15px;
+}
+
+.project-header {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
