@@ -15,7 +15,7 @@ For this project, I had to create a responsive portfolio website that would acco
 
 In order to access this application, the user can click on the link below, which will redirect them to my portfolio page.
 
-* [Portfolio](https://kreid333.github.io/new-portfolio/)
+* [Portfolio](https://kreid333.github.io/kai-reid-portfolio/)
 
 From there, the user can scroll through my portfolio to access my projects, what technologies I am proficient in, an about me, and a contact form with contact information.
 
